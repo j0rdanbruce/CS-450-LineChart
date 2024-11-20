@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CS-450-LineChart/static/css/main.912c80f3.css",
+    "main.js": "/CS-450-LineChart/static/js/main.1d4836b1.js",
+    "static/js/453.e79745b6.chunk.js": "/CS-450-LineChart/static/js/453.e79745b6.chunk.js",
+    "index.html": "/CS-450-LineChart/index.html",
+    "main.912c80f3.css.map": "/CS-450-LineChart/static/css/main.912c80f3.css.map",
+    "main.1d4836b1.js.map": "/CS-450-LineChart/static/js/main.1d4836b1.js.map",
+    "453.e79745b6.chunk.js.map": "/CS-450-LineChart/static/js/453.e79745b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912c80f3.css",
+    "static/js/main.1d4836b1.js"
+  ]
+}
